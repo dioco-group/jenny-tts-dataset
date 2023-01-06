@@ -27,6 +27,7 @@ etc.
 Audio files are 48khz, 16-bit PCM files, 2 Channels (a single microphone was used.. hmm).
 
 # Download link: https://www.languagereactor.com/dataset.tar.zst
+Decompress with 'zst -d dataset.tar.zst' (apt install zstd on Ubuntu).
 (link will probably change at a later date)
 
 There was some light preprocessing done when the text was taken from the raw sources. A breakdown of where different material starts and ends can be reconstructed. Further information to follow.
