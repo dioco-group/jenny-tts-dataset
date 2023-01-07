@@ -35,6 +35,6 @@ There was some light preprocessing done when the text was taken from the raw sou
 # Important
 The audiofiles are raw from the microphone, not trimmed. In some cases there are a few seconds of silence, sometimes a light 'knock' is audible at the beginning of the clip, where Jenny was hitting the start key. These issues will need to be addressed before training a TTS model. I'm a bit short on time these days, help welcome.
 
-License - Attribution is required in software/websites/projects/interfaces (including voice interfaces) that generate audio using this dataset. The voice must be referred to as "Jenny", and where practical, "Jenny (Dioco)". Attribution is not required when distributing the generated clips (although welcome). Commercial use is permitted. Don't do unfair things like claim the dataset is your own. No further restrictions apply.
+License - Attribution is required in software/websites/projects/interfaces (including voice interfaces) that generate audio in response to user action using this dataset. Atribution means: the voice must be referred to as "Jenny", and where at all practical, "Jenny (Dioco)". Attribution is not required when distributing the generated clips (although welcome). Commercial use is permitted. Don't do unfair things like claim the dataset is your own. No further restrictions apply.
 
 Jenny is available to produce further recordings for your own use. Mail dioco@dioco.io
